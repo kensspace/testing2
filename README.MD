@@ -3,6 +3,8 @@ This repository contanins a Restful service to handle the Fibonacci calculation.
 The Product Specification.docx charify how to handle it as a product and to grantee the product quality from process and tools.
 
 
+[![Build Status](https://travis-ci.org/i070595/emc2.svg?branch=master)](https://travis-ci.org/i070595/emc2)
+
 ## **Prepare**
      #~ pip install -r requirements.txt
      #~ sudo apt-get install jmeter
