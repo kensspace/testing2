@@ -1,13 +1,13 @@
 # Overview
-This repository contains a Restful service to handle the Fibonacci calculation. It also contains the unite test scripts, Jmeter test script for performance and function test, and other function test methods. About product management, I think that all success is sales success. I clarify how to support sales and improve product from several aspects: market, organization, system landscape, continues delivery and operation. <br>
+This repository contains a Restful service to handle the Fibonacci calculation. It also contains the unite test scripts, Jmeter test script for performance and function test, and other function test methods. About product management and maintain in 5 years, I think that a cloud product can live more than 3 years is a sales success and development success. So, we had to support marketing and development both to achieve it. I clarify this from five aspects: Marketing, Organization, System landscape, Continues delivery and Operation. <br>
 
 [![Build Status](https://travis-ci.org/i070595/emc2.svg?branch=master)](https://travis-ci.org/i070595/emc2)
 
-## Market
-Provide stable and quality service will be our commitment to customer. The product’s market segment will be University, Research center and calculation service provider. To success setup an echo system is the key to achieve successfully. <br>
+## Marketing
+Provide stable and quality service will be our commitment to customer. The product’s market segment will be University, Research center and calculation service provider. To success setup an echo system is the key to achieve successfully.<br>
 
 ## Organization
-In order to support the product sales, development and maintenance, setup teams for correspond responsibility will be necessary.<br>
+In order to quick response to market requirements for this small products, we'll adpot Rapid Iteration for our development. Based on the responsibility, we setup below teams to support marketing and development<br>
 **Customer support team:** Customers message and requirement.<br>
 **Development team:** Product bug fixing, new feature development, innovation and deployment interface.<br>
 **CD team:** Continues delivery system and testing center.<br>
