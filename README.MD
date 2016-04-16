@@ -17,7 +17,7 @@ In order to quick response to market requirements for this small products, we'll
 The product development will be considered as Continues delivery mode, and all Dev and QA will work on the same platform and focused on their professional area. Dev and QA will not consider about environment, infrastructure and deployment, they will only consider about development requirements and deployment interface.<br><br>
 The product landscape will considered as Micro-service structure, packaged in Docker and deployed on Mesos.<br>
 
-![alt tag](https://github.com/i070595/picture/blob/master/structure.JPG)
+
 
 **Product Development**<br>
 
@@ -77,3 +77,7 @@ Run in command <br>
 
     jmeter -n -t <jmeter_test_script_path>
 
+## System Architecture
+Below is a draft architecture of FibService product environment architecture.<br>
+
+![structure](https://github.com/i070595/picture/blob/master/structure.JPG)
