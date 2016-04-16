@@ -39,6 +39,7 @@ System development team will focus on the Fibonacci number service development a
     * Selenium for front service testing.<br>
     * Unit test tools for unit testing.<br>
     * Python to meet daily testing tools requirement.<br>
+    * Test case and test plan are managed by TestLink or JIRA and JIRA capture.
     * All automation testing script will run in the Testing Center, all the logs will be collected and analysis. The result will send   to    stakeholders.<br>
 
 * **Infrastructure development**<br>
