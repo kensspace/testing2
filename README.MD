@@ -21,10 +21,10 @@ The product landscape will considered as Micro-service structure, packaged in Do
 
 **Product Development**<br>
 
-System development team will focus on the Fibonacci number service development and customer requirements. The system will be development under TDD principle, all feature should be defined as testable. Unit test will cover every code layers, and all service must be stateless.<br>
+System development team will focus on the Fibonacci number service development and customer requirements. The system will be developed under TDD principle, all feature should be defined as testable. Unit test will cover every code layers, and all service must be stateless.<br>
 
 * **Fibonacci service development**<br>
-    Developer and QA focus on this area to continues improve service quality, optimize response speed and system perforce. In order to adpot Micro-service and deployment, the deployment interface will be defined as a protocal for each component to discover resource and print logs<br>
+    Developer and QA focus on this area to continues improve service quality, optimize request response speed and system perforce. In order to adpot Micro-service and deployment, the deployment interface will be defined as a protocal for each component to discover resource and print logs<br>
 
 * **Testing**<br>
     * **Unit testing:** Dev will provide Unit testing code once their class was finished.<br>
@@ -51,7 +51,7 @@ System development team will focus on the Fibonacci number service development a
 The CD team will considered about product continues integration and delivery. Dev/QA will pull from / push to git repository. Code review, validation and Security scan will automatically run in routine jobs on each branch. Once a code submit successfully, Build Server will automatically build a builder for Testing. The testing center will automatically deploy an environment to run sanity testing scripts. QA can also book an environment for manually testing, automation testing script development or performance testing. Once the code branch was freeze and testing passed in integration environment, the build will be tag as release candidate.<br>
 
 ## Operation
-System operation team will focus on the online system monitor, in time action for online issues and collect online issues. They will use several tools to monitor the system and keep evidence for bug tracking. etc. ELK, Jiankongbao<br>
+System operation team will focus on the online system monitor, in time action for online issues and collect online issues. They will use several tools to monitor the system and keep evidence for bug tracking. etc. ELK, Jiankongbao. When they started to deploy/upgrade the sytem, stakeholders will be notify to join the deploy/upgrade process<br>
 
 ## How to run
     pip install -r requirements.txt
