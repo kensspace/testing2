@@ -25,12 +25,12 @@ System development team will focus on the Fibonacci number service development a
 Developer and QA focus on this area to continues improve service quality, optimize response speed and system perforce<br>
 <br>
 * **Testing**<br>
-    **Unit testing:** Dev will provide Unit testing code once their class was finished.<br>
-    **Function testing:** QA can book environment from CD center and do function testing rely on test case, every function or feature   cutoff, the test case and testing should be finished.<br>
-    **Integration testing:** All QA should provide e2e test case and upload to Testlink which used to manage test case. <br>
-    **Regression testing:** it covered by automation test scripts. When the system grow up, no one can grantee the quality regression                         without automation testing. All QA will delivery test script on function and e2e scenario. Developers                             should delivery unit test case when their features were finished.<br>
-    **Performance testing:** it will be covered by performance testing tools, like Jmeter.<br>
-    **Deployment and upgrade testing:** deployment and upgrade is not part of development but it is integration the whole production                                      to success. Without pay attention to this part, even we pass in every testing phase, we may                                       have high probability to fail. I suggest to divide this part to two phase: binary deployment                                      and database data upgrade.<br><br>
+    * **Unit testing:** Dev will provide Unit testing code once their class was finished.<br>
+    * **Function testing:** QA can book environment from CD center and do function testing rely on test case, every function or feature   cutoff, the test case and testing should be finished.<br>
+    * **Integration testing:** All QA should provide e2e test case and upload to Testlink which used to manage test case. <br>
+    * **Regression testing:** it covered by automation test scripts. When the system grow up, no one can grantee the quality regression                         without automation testing. All QA will delivery test script on function and e2e scenario. Developers                             should delivery unit test case when their features were finished.<br>
+    * **Performance testing:** it will be covered by performance testing tools, like Jmeter.<br>
+    * **Deployment and upgrade testing:** deployment and upgrade is not part of development but it is integration the whole production                                      to success. Without pay attention to this part, even we pass in every testing phase, we may                                       have high probability to fail. I suggest to divide this part to two phase: binary deployment                                      and database data upgrade.<br><br>
 * **Testing tools:** <br>
     * Jmeter for backend service testing and performance testing. <br>
     * Selenium for front service testing.<br>
