@@ -8,10 +8,10 @@ Provide stable and quality service will be our commitment to customer. The produ
 
 ## Organization
 In order to quick response to market requirements for this small products, we'll adpot Rapid Iteration for our development. Based on the responsibility, we setup below teams to support marketing and development<br>
-**Customer support team:** Customers message and requirement.<br>
-**Development team:** Product bug fixing, new feature development, innovation and deployment interface.<br>
-**CD team:** Continues delivery system and testing center.<br>
-**DevOps team:** Online system monitor and operation, system deployment and upgrade.<br>
+* **Customer support team:** Customers message and requirement.<br>
+* **Development team:** Product bug fixing, new feature development, innovation and deployment interface.<br>
+* **CD team:** Continues delivery system and testing center.<br>
+* **DevOps team:** Online system monitor and operation, system deployment and upgrade.<br>
 
 ## System landscape
 The product development will be considered as Continues delivery mode, and all Dev and QA will work on the same platform and focused on their professional area. Dev and QA will not consider about environment, infrastructure and deployment, they will only consider about development requirements and deployment interface.<br><br>
