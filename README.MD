@@ -66,6 +66,16 @@ Run in command<br>
 
     http GET http://127.0.0.1:5000/api/v1.0/fib/10 
     http GET http://127.0.0.1:5000/api/v1.0/fib/100 
+    http GET http://127.0.0.1:5000/api/v1.0/fib/0
+    http GET http://127.0.0.1:5000/api/v1.0/fib/-0
+    http GET http://127.0.0.1:5000/api/v1.0/fib/-1
+    http GET http://127.0.0.1:5000/api/v1.0/fib/1asdfasdfasdfasdfasdfasdfsaf
+    http GET http://127.0.0.1:5000/api/v1.0/fib/
+    http GET http://127.0.0.1:5000/api/v1.0/fib/   
+    http GET http://127.0.0.1:5000/api/v1.0/
+    http GET http://127.0.0.1:5000/api/
+    http GET http://127.0.0.1:5000/
+    http GET http://127.0.0.1:5000/asdfasdf
     http GET http://127.0.0.1:5000/api/v1.0/fib/asdf 
     http GET http://127.0.0.1:5000/api/v1.0/fib/-10 
     http GET http://127.0.0.1:5000/api/v1.0/fib/$#@ 
