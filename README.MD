@@ -4,7 +4,7 @@ This repository contains a Restful service to handle the Fibonacci calculation. 
 [![Build Status](https://travis-ci.org/i070595/emc2.svg?branch=master)](https://travis-ci.org/i070595/emc2)
 
 ## Marketing
-Provide stable and quality service will be our commitment to customer. The product’s market segment will be University, Research center and calculation service provider. To success setup an echo system is the key to achieve successfully.<br>
+Provide stable and quality service will be our commitment to customer. The product’s market segment will be University, Research center and calculation service provider. To success setup an echo system is the key to achieve success. From development side, We will fully support and quickly response the requirements from Marketing<br>
 
 ## Organization
 In order to quick response to market requirements for this small products, we'll adpot Rapid Iteration for our development. Based on the responsibility, we setup below teams to support marketing and development<br>
