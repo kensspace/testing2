@@ -1,5 +1,5 @@
 # Overview
-This repository contains a Restful service to handle the Fibonacci calculation. It also contains the unite test scripts, Jmeter test script for performance and function test, and other function test methods. About product management and maintain in 5 years, I think that a cloud product can live more than 3 years is a sales success and development success. So, we had to support marketing and development both to achieve it. I clarify this from five aspects: Marketing, Organization, System landscape, Continues delivery and Operation. <br>
+This repository contains a Restful service to handle the Fibonacci calculation. It also contains the unite test scripts, Jmeter test script for performance and function test, and other function test methods. About product management and maintain in 5 years, I think that a cloud product can live more than 3 years is a sales success and development success. So, we had to support marketing and development both to achieve it. I clarify this from five aspects: Marketing, Organization, System landscape, Continues delivery and Operation. And the system architecture diagram was desgined in section "System Architecture" <br>
 
 [![Build Status](https://travis-ci.org/i070595/emc2.svg?branch=master)](https://travis-ci.org/i070595/emc2)
 
